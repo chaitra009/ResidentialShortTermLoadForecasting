@@ -1,0 +1,101 @@
+bldg_id,bid_str,in.county,in.county_name,in.ashrae_iecc_climate_zone_2004,in.geometry_building_type_recs,in.geometry_floor_area,in.bedrooms,in.vintage,in.hvac_cooling_type,climate_zone
+268737,268737,G0600990,Stanislaus County,3B,Single-Family Detached,2000-2499,3,1990s,Central AC,3B
+379266,379266,G0600370,Los Angeles County,3B,Single-Family Detached,1000-1499,3,1960s,Central AC,3B
+373967,373967,G0600370,Los Angeles County,3B,Single-Family Detached,1500-1999,3,<1940,Central AC,3B
+456366,456366,G0600130,Contra Costa County,3B,Single-Family Detached,1500-1999,3,1960s,Central AC,3B
+356966,356966,G0600710,San Bernardino County,3B,Single-Family Detached,1500-1999,4,1990s,Central AC,3B
+52699,52699,G0600590,Orange County,3B,Single-Family Detached,1500-1999,3,2000s,Central AC,3B
+331456,331456,G0600710,San Bernardino County,3B,Single-Family Detached,1000-1499,3,1950s,Ducted Heat Pump,3B
+59712,59712,G0600650,Riverside County,3B,Single-Family Detached,1000-1499,3,1960s,Central AC,3B
+446318,446318,G0600730,San Diego County,3B,Single-Family Detached,2500-2999,5,1970s,None,3B
+160848,160848,G0601130,Yolo County,3B,Single-Family Detached,1500-1999,1,1950s,Central AC,3B
+281109,281109,G0600650,Riverside County,3B,Single-Family Detached,1500-1999,3,1980s,Central AC,3B
+332225,332225,G0600370,Los Angeles County,3B,Single-Family Detached,1000-1499,2,1950s,Central AC,3B
+374745,374745,G0600370,Los Angeles County,3B,Single-Family Detached,4000+,5,<1940,None,3B
+170597,170597,G0600370,Los Angeles County,3B,Single-Family Detached,1000-1499,3,1940s,Room AC,3B
+517378,517378,G0600290,Kern County,3B,Single-Family Detached,1000-1499,3,1970s,None,3B
+466287,466287,G0600370,Los Angeles County,3B,Single-Family Detached,1500-1999,3,1950s,Central AC,3B
+359176,359176,G0600370,Los Angeles County,3B,Single-Family Detached,2000-2499,3,1960s,None,3B
+536956,536956,G0601010,Sutter County,3B,Single-Family Detached,1000-1499,3,1970s,Central AC,3B
+524523,524523,G0600710,San Bernardino County,3B,Single-Family Detached,2000-2499,4,1950s,None,3B
+152009,152009,G0600370,Los Angeles County,3B,Single-Family Detached,2000-2499,4,1960s,Room AC,3B
+460419,460419,G0600590,Orange County,3B,Single-Family Detached,2000-2499,4,1960s,Central AC,3B
+310485,310485,G0600710,San Bernardino County,3B,Single-Family Detached,1500-1999,3,1960s,None,3B
+465841,465841,G0600370,Los Angeles County,3B,Single-Family Detached,2000-2499,5,1970s,Central AC,3B
+348439,348439,G0600370,Los Angeles County,3B,Single-Family Detached,3000-3999,3,1990s,Central AC,3B
+11966,11966,G0600590,Orange County,3B,Single-Family Detached,0-499,1,1960s,None,3B
+350006,350006,G0600590,Orange County,3B,Single-Family Detached,1000-1499,3,1960s,None,3B
+24186,24186,G0600370,Los Angeles County,3B,Single-Family Detached,2000-2499,3,2000s,Central AC,3B
+354175,354175,G0600290,Kern County,3B,Single-Family Detached,1500-1999,3,<1940,Central AC,3B
+121026,121026,G0600190,Fresno County,3B,Single-Family Detached,1500-1999,3,1950s,None,3B
+112721,112721,G0600590,Orange County,3B,Single-Family Detached,1000-1499,3,1960s,Room AC,3B
+218960,218960,G0600730,San Diego County,3B,Single-Family Detached,1500-1999,3,1970s,Central AC,3B
+330912,330912,G0600310,Kings County,3B,Single-Family Detached,1000-1499,3,1970s,Central AC,3B
+372892,372892,G0600710,San Bernardino County,3B,Single-Family Detached,3000-3999,5,1960s,None,3B
+256461,256461,G0600590,Orange County,3B,Single-Family Detached,2000-2499,3,2000s,Central AC,3B
+483688,483688,G0600610,Placer County,3B,Single-Family Detached,1500-1999,3,2010s,None,3B
+293786,293786,G0600850,Santa Clara County,3C,Single-Family Detached,750-999,3,1950s,Central AC,3C
+129155,129155,G0601110,Ventura County,3C,Single-Family Detached,4000+,5,2000s,Central AC,3C
+393812,393812,G0600450,Mendocino County,3C,Single-Family Detached,1000-1499,3,<1940,Central AC,3C
+420755,420755,G0601110,Ventura County,3C,Single-Family Detached,4000+,4,<1940,Central AC,3C
+222565,222565,G0600790,San Luis Obispo County,3C,Single-Family Detached,1000-1499,3,1950s,Central AC,3C
+294671,294671,G0600750,San Francisco County,3C,Single-Family Detached,1500-1999,4,<1940,None,3C
+255146,255146,G0600530,Monterey County,3C,Single-Family Detached,1500-1999,4,1950s,Central AC,3C
+158867,158867,G0600010,Alameda County,3C,Single-Family Detached,1500-1999,4,2000s,Central AC,3C
+423733,423733,G0600850,Santa Clara County,3C,Single-Family Detached,2000-2499,3,1980s,None,3C
+63918,63918,G0600790,San Luis Obispo County,3C,Single-Family Detached,1000-1499,3,1950s,Central AC,3C
+58532,58532,G0600850,Santa Clara County,3C,Single-Family Detached,2000-2499,3,1950s,None,3C
+214106,214106,G0600970,Sonoma County,3C,Single-Family Detached,1500-1999,3,1970s,None,3C
+291264,291264,G0600810,San Mateo County,3C,Single-Family Detached,1500-1999,4,2000s,Central AC,3C
+181552,181552,G0601110,Ventura County,3C,Single-Family Detached,1000-1499,2,1990s,Central AC,3C
+169835,169835,G0600750,San Francisco County,3C,Single-Family Detached,2500-2999,3,<1940,Non-Ducted Heat Pump,3C
+46515,46515,G0600010,Alameda County,3C,Single-Family Detached,1000-1499,2,1980s,None,3C
+42391,42391,G0600850,Santa Clara County,3C,Single-Family Detached,1000-1499,2,1950s,Central AC,3C
+508393,508393,G0600550,Napa County,3C,Single-Family Detached,1000-1499,2,<1940,Central AC,3C
+242336,242336,G0600810,San Mateo County,3C,Single-Family Detached,2500-2999,4,1940s,Central AC,3C
+124124,124124,G0600850,Santa Clara County,3C,Single-Family Detached,3000-3999,3,1970s,None,3C
+83128,83128,G0600010,Alameda County,3C,Single-Family Detached,750-999,2,1970s,Room AC,3C
+515470,515470,G0600870,Santa Cruz County,3C,Single-Family Detached,1500-1999,3,1940s,Central AC,3C
+292596,292596,G0600870,Santa Cruz County,3C,Single-Family Detached,4000+,5,<1940,Room AC,3C
+274372,274372,G0601110,Ventura County,3C,Single-Family Detached,1500-1999,3,1960s,Central AC,3C
+527897,527897,G0600810,San Mateo County,3C,Single-Family Detached,3000-3999,3,1970s,Room AC,3C
+27338,27338,G0600330,Lake County,4B,Single-Family Detached,1000-1499,4,2000s,Room AC,4B
+249457,249457,G0600050,Amador County,4B,Single-Family Detached,2500-2999,3,1960s,Central AC,4B
+64647,64647,G0600330,Lake County,4B,Single-Family Detached,1000-1499,3,<1940,Room AC,4B
+9063,9063,G0600270,Inyo County,4B,Single-Family Detached,2500-2999,4,2000s,Central AC,4B
+343629,343629,G0600170,El Dorado County,4B,Single-Family Detached,750-999,2,1990s,Ducted Heat Pump,4B
+354202,354202,G0600170,El Dorado County,4B,Single-Family Detached,1500-1999,3,1990s,Central AC,4B
+487677,487677,G0600170,El Dorado County,4B,Single-Family Detached,1000-1499,3,<1940,Room AC,4B
+377261,377261,G0600330,Lake County,4B,Single-Family Detached,2000-2499,4,1980s,Ducted Heat Pump,4B
+360144,360144,G0600170,El Dorado County,4B,Single-Family Detached,2000-2499,3,1970s,None,4B
+214345,214345,G0600170,El Dorado County,4B,Single-Family Detached,1500-1999,2,1980s,Room AC,4B
+524457,524457,G0600050,Amador County,4B,Single-Family Detached,2000-2499,4,1970s,Central AC,4B
+544145,544145,G0600170,El Dorado County,4B,Single-Family Detached,1500-1999,3,1970s,Room AC,4B
+125920,125920,G0600170,El Dorado County,4B,Single-Family Detached,1500-1999,3,1940s,None,4B
+76077,76077,G0600430,Mariposa County,4B,Single-Family Detached,1000-1499,3,1980s,Central AC,4B
+414751,414751,G0600170,El Dorado County,4B,Single-Family Detached,2000-2499,4,1990s,Central AC,4B
+240524,240524,G0600230,Humboldt County,4C,Single-Family Detached,1000-1499,2,2000s,Central AC,4C
+41405,41405,G0600230,Humboldt County,4C,Single-Family Detached,1500-1999,3,1950s,Room AC,4C
+406344,406344,G0600230,Humboldt County,4C,Single-Family Detached,1000-1499,3,<1940,Central AC,4C
+498749,498749,G0600230,Humboldt County,4C,Single-Family Detached,1000-1499,2,1950s,Room AC,4C
+104523,104523,G0600230,Humboldt County,4C,Single-Family Detached,2000-2499,3,1970s,Room AC,4C
+48817,48817,G0600230,Humboldt County,4C,Single-Family Detached,750-999,3,1950s,Central AC,4C
+392857,392857,G0600150,Del Norte County,4C,Single-Family Detached,2000-2499,5,1990s,None,4C
+235293,235293,G0600150,Del Norte County,4C,Single-Family Detached,2000-2499,5,1960s,Central AC,4C
+383286,383286,G0600230,Humboldt County,4C,Single-Family Detached,1000-1499,3,<1940,Room AC,4C
+201718,201718,G0600230,Humboldt County,4C,Single-Family Detached,750-999,2,1990s,Room AC,4C
+339094,339094,G0600630,Plumas County,5B,Single-Family Detached,1000-1499,3,1970s,Central AC,5B
+457158,457158,G0600350,Lassen County,5B,Single-Family Detached,1500-1999,3,1980s,Room AC,5B
+332280,332280,G0600350,Lassen County,5B,Single-Family Detached,2000-2499,4,1960s,None,5B
+500915,500915,G0600570,Nevada County,5B,Single-Family Detached,1500-1999,3,1950s,Non-Ducted Heat Pump,5B
+311029,311029,G0600930,Siskiyou County,5B,Single-Family Detached,1000-1499,2,1970s,Central AC,5B
+451937,451937,G0600490,Modoc County,5B,Single-Family Detached,1500-1999,4,<1940,None,5B
+157280,157280,G0600570,Nevada County,5B,Single-Family Detached,1000-1499,3,1970s,None,5B
+244206,244206,G0600490,Modoc County,5B,Single-Family Detached,2000-2499,3,2000s,Central AC,5B
+54801,54801,G0600630,Plumas County,5B,Single-Family Detached,1500-1999,3,1970s,None,5B
+322612,322612,G0600930,Siskiyou County,5B,Single-Family Detached,1000-1499,3,1980s,Room AC,5B
+63882,63882,G0600250,Imperial County,2B,Single-Family Detached,1500-1999,3,1970s,Central AC,2B
+75606,75606,G0600250,Imperial County,2B,Single-Family Detached,750-999,2,1940s,None,2B
+329741,329741,G0600250,Imperial County,2B,Single-Family Detached,1000-1499,2,1950s,Non-Ducted Heat Pump,2B
+196172,196172,G0600250,Imperial County,2B,Single-Family Detached,3000-3999,4,2000s,Central AC,2B
+163552,163552,G0600250,Imperial County,2B,Single-Family Detached,1000-1499,3,1950s,Central AC,2B

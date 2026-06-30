@@ -1,32 +1,3 @@
-"""
-downloadFiles.py — FIXED VERSION
-==================================
-Changes from original:
-  1. GISJOIN list is now derived dynamically from selected_buildings.csv
-     instead of being hardcoded. This means re-running extractColumns.py
-     with different parameters (different random_state, different zone
-     quotas, etc.) will automatically stay in sync — no more silent
-     staleness bugs.
-  2. Output folder structure now matches exactly what the notebooks
-     (LoadForecastingPipeline.ipynb, ProphetGB_Pipeline.ipynb,
-     LoadForecastingPipeline_R2improved.ipynb) expect:
-         ./data/timeseries_2018/
-         ./data/timeseries_2012/
-         ./data/weather_2018/
-         ./data/weather_2012/
-     Previously this script saved to ./timeseries/ and ./weather/,
-     which did NOT match the notebooks' DATA_DIR structure — this was
-     a real path mismatch that would have caused every notebook to
-     fail at Cell 6 (the data-copy step) or Cell 10/11 (file existence
-     checks).
-  3. Downloads BOTH 2018 and 2012 data by default, since the 2-year
-     training experiments (RUN_MODE='2year') require both years.
-     Set DOWNLOAD_2012 = False below if you only need the 1-year run.
-  4. Metadata and selected_buildings.csv are also copied into the
-     data/ folder so Cell 6's copy step in the notebooks has nothing
-     left to do (it will just print "Already exists" and move on).
-"""
-
 import boto3
 import pandas as pd
 from botocore import UNSIGNED
